@@ -21,11 +21,11 @@ The concept behind AI Image Data Poisoning is to leverage adversarial noise, a f
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/ai-image-data-poisoning.git
+   git clone https://github.com/AnthenaMatrix/ai-image-data-poisoning.git
 
 
 2. **Run the Script:**
-python ai_image_data_poisoning.py
+python inject.py
 
 
 3. **Follow the Instructions:**
